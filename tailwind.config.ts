@@ -8,9 +8,20 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        poppins: ["Poppins", "serif"],
+      },
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        background: "#0B0E14",
+        foreground: "#ffffff",
+        secondary: {
+          DEFAULT: "#0B0F17",
+          foreground: "#ffffff",
+        },
+        accent: {
+          DEFAULT: "#1D6CFF",
+        },
+        border: "#E4E4E4",
       },
     },
   },
