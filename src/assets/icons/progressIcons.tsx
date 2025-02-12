@@ -9,10 +9,10 @@ export const ProgressIcon1: React.FC<React.SVGProps<SVGSVGElement>> = ({
     fill="none"
     {...props}
   >
-    <g clip-path="url(#clip0_1_256)">
+    <g clipPath="url(#clip0_1_256)">
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M8 1.23077C4.26146 1.23077 1.23077 4.26146 1.23077 8C1.23077 11.7385 4.26146 14.7692 8 14.7692C11.7385 14.7692 14.7692 11.7385 14.7692 8C14.7692 4.26146 11.7385 1.23077 8 1.23077ZM0 8C0 3.58172 3.58172 0 8 0C12.4183 0 16 3.58172 16 8C16 12.4183 12.4183 16 8 16C3.58172 16 0 12.4183 0 8Z"
         fill="currentColor"
       />
@@ -40,10 +40,10 @@ export const SuccessIcon1: React.FC<React.SVGProps<SVGSVGElement>> = ({
     fill="none"
     {...props}
   >
-    <g clip-path="url(#clip0_1_268)">
+    <g clipPath="url(#clip0_1_268)">
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M0 8C0 3.58172 3.58172 0 8 0C12.4183 0 16 3.58172 16 8C16 12.4183 12.4183 16 8 16C3.58172 16 0 12.4183 0 8Z"
         fill="#34C759"
       />
